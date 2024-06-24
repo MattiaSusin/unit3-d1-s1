@@ -1,5 +1,8 @@
 import logo from './logo.svg';
 import './App.css';
+import Header from "./components/Header";
+import FormGroup from "./components/FormGroup";
+import ClassComponent from "./components/ClassComponent";
 
 function App() {
   return (
